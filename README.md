@@ -8,6 +8,8 @@
 
 ### 🔬 Research & Projects
 **Rice Variety Classification using VGG-16**: Researched and implemented a deep learning framework incorporating color and texture features for accurate rice variety classification.
+
+
 **Threat Detection Architectures**: Developing real-time multi-camera firearm threat detection systems using YOLOv10.
 
 ---
