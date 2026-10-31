@@ -15,5 +15,5 @@
 ---
 
 ### 🔗 Connect with Me
-* [Google Scholar Profile](https://scholar.google.com/citations?user=X_qRmSwAAAAJ&hl=en) [cite: 15]
+* [Google Scholar Profile](https://scholar.google.com/citations?user=X_qRmSwAAAAJ&hl=en) 
 * [LinkedIn](https://www.linkedin.com/in/hafizmishaq)
