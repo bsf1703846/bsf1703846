@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there! 👋 I'm Hafiz Muhammad Ishaq
 
-<!--
-**bsf1703846/bsf1703846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Computer Science Researcher & Developer  
+🎓 Master of Science in Computer Science (University of Education Lahore) [cite: 3]  
+📍 Multan, Pakistan[cite: 3]  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research & Projects
+Rice Variety Classification using VGG-16**: Researched and implemented a deep learning framework incorporating color and texture features for accurate rice variety classification.
+**Threat Detection Architectures**: Developing real-time multi-camera firearm threat detection systems using YOLOv10.
+
+---
+
+### 🔗 Connect with Me
+* [Google Scholar Profile](https://scholar.google.com/citations?user=X_qRmSwAAAAJ&hl=en) [cite: 15]
+* [LinkedIn](https://www.linkedin.com/in/hafizmishaq)
